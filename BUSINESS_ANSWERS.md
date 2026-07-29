@@ -1,7 +1,7 @@
 # Business Answers
 
-Candidate name: [YOUR NAME]
-Date: [DATE]
+Candidate name: [Vedika Singh]
+Date: [29th July 2026]
 
 ---
 
